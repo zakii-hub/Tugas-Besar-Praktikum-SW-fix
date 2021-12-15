@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+          xmlns:dc="http://purl.org/dc/elements/1.1/"
+          
+          >
+
+<rdf:Description rdf:about="https://www.wikipedia.com/rute/koridor1#">
+    <dc:nomor>1</dc:nomor> 
+    <dc:koridor>Koridor 1</dc:koridor> 
+    <dc:titikawal>Terminal Mangkang</dc:titikawal>
+    <dc:titikakhir>Terminal Penggaron</dc:titikakhir> 
+    <dc:price>Rp. 3.500</dc:price>
+    <dc:rute>Terminal Penggaron – Bitratex ↠ Pucang Gading ↠ Manunggal Jati ↠ Zebra ↠ BLK ↠ ADA Majapahit ↠ Pasar Gayamsari ↠ Kelinci ↠ Mullo (Milo) ↠ RRI ↠ SPBU (Ahmad Yani II) ↠ Simpang Lima ↠ Gramedia ↠ Pandanaran ↠ Tugu Muda ↠ Halte Transit Imam Bonjol ↠ Jalan Kapten Pierre Tendean ↠ Jalan Pemuda ↠ Halte Transit Balai Kota Semarang ↠ Pasar Bulu ↠ ADA Pasar Bulu ↠ Karangayu ↠ Cakrawala ↠ Muradi ↠ Pengadilan ↠ RSUD Tugu ↠ PLN ↠ Lapangan Tugu ↠ Taman Lele ↠ KTI ↠ Karpet ↠ Karanganyar (SMA 8) ↠ Kawasan Industri ↠ Sango ↠ Pasar Mangkang ↠ Terminal Mangkang. </dc:rute>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikipedia.com/rute/koridor2#">
+    <dc:nomor>2</dc:nomor> 
+    <dc:koridor>Koridor 2</dc:koridor> 
+    <dc:titikawal>Terminal Terboyo</dc:titikawal>
+    <dc:titikakhir>Terminal Sisemut</dc:titikakhir> 
+    <dc:price>Rp. 3.500</dc:price>
+    <dc:rute>Sisemut ↠ Taman Unyil ↠ BPK Jawa Tengah ↠ Pudakpayung – Kodam IV/Diponegoro ↠ Terminal Banyumanik ↠ ADA Setiabudi ↠ TK Srondol ↠ Ngesrep ↠ Gombel ↠ Pasar Jatingaleh ↠ Kesatrian ↠ Don Bosco ↠ Akpol ↠ Kagok ↠ Halte Transit Taman Diponegoro/RS Elisabeth ↠ Taman Gajahmungkur ↠ Ngaglik ↠ RSUP Kariadi ↠ RS Wira Bhakti Tama ↠ Halte Transit Imam Bonjol ↠ Halte Balai Kota ↠ Dinkes Jateng ↠ Johar ↠ Layur – Stasiun Tawang ↠ Pengampon ↠ Penjaringan ↠ Pasar Kaligawe ↠ Kampoeng Semarang ↠ SMP 4 ↠ RSI Sultan Agung ↠ Pool Padi, Terboyo. </dc:rute>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikipedia.com/rute/koridor3#">
+    <dc:nomor>3</dc:nomor> 
+    <dc:koridor>Koridor 3</dc:koridor> 
+    <dc:titikawal>Pelabuhan Tanjung Mas</dc:titikawal>
+    <dc:titikakhir>Pelabuhan Tanjung Mas</dc:titikakhir> 
+    <dc:price>Rp. 3.500</dc:price>
+    <dc:rute>Pelabuhan Tanjung Emas – Jl. Ronggowarsito ↠ Jl. Pengapon ↠ Jl. R. Patah ↠ Jl. Sayangan ↠ Bubakan ↠ Jl. Pattimura ↠ Jl. Dr. Cipto ↠ Jl. MT Haryono ↠ Jl. Dr. Wahidin ↠ Jl. Sultan Agung – Halte Transit Kagok – Jl. Diponegoro ↠ Jl. Pahlawan ↠ Jl. Taman Menteri Supeno (SMAN 1/Taman Indonesia Kaya) ↠ Simpang Lima ↠ Jl. Gajahmada ↠ Jl. Pemuda Halte Balai Kota ↠ Tugu Muda ↠ Jl. Imam Bonjol ↠ Stasiun Poncol ↠ Jl. Kolonel Sugiyono ↠ Stasiun Tawang ↠ Jl. Ronggowarsito ↠ Pelabuhan Tanjung Emas. </dc:rute>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://www.wikipedia.com/rute/koridor4#">
+    <dc:nomor>4</dc:nomor> 
+    <dc:koridor>Koridor 4</dc:koridor> 
+    <dc:titikawal>Terminal Cangkiran</dc:titikawal>
+    <dc:titikakhir>Stasiun Kereta Api Tawang</dc:titikakhir> 
+    <dc:price>Rp. 3.500</dc:price>
+    <dc:rute>Terminal Cangkiran ↠ Jalan Raya Mijen ↠ Jalan Raya Semarang Boja ↠ Jalan Raya Ngaliyan ↠ Jalan Prof. Dr Hamka ↠ Jerakah ↠ Krapyak ↠ Kalibanteng ↠ Jalan Jend Sudirman↠ ADA Siliwangi Pasar Karang Ayu ↠ Jalan Soegiopranoto ↠ Halte Imam Bonjol Udinus ↠ Halte Balai Kota ↠ Jalan Pandanaran ↠ Halte Simpang Lima ↠ Jalan Gajahmada ↠ Jalan Empu Tantular ↠ Stasiun Tawang. </dc:rute>
+</rdf:Description>
+
+
+</rdf:RDF>
